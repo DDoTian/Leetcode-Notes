@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "06-12-22.md",
+            "file": "06-12-22 (Binary Tree).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-12-22.md",
+                "file": "06-12-22 (Binary Tree).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "9367da44a17a7486",
   "lastOpenFiles": [
-    "06-12-22.md",
-    "06-02-22.md",
+    "06-12-22 (Binary Tree).md",
     "06-08-22.md",
+    "06-02-22.md",
     "06-05-22.md"
   ]
 }
